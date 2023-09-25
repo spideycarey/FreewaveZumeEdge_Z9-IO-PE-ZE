@@ -19,6 +19,8 @@ Configure Zum Edge Z9-IO-PE-ZE
    - Type `sudo mount –o remount,size=200000000 /tmp`
    - Type `sudo apt-get update`
    - Type `sudo apt-get upgrade`
+   - Type `sudo apt install python3-django`
+   - Type `sudo apt install python3-jsonschema`
    - Type `sudo apt get clean`
      
 5. 
