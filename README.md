@@ -21,6 +21,6 @@ Configure Zum Edge Z9-IO-PE-ZE
    - Type `sudo apt-get upgrade`
    - Type `sudo apt install python3-django`
    - Type `sudo apt install python3-jsonschema`
-   - Type `sudo apt get clean`
+   - Type `sudo apt-get clean`
      
 5. 
