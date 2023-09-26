@@ -23,4 +23,12 @@ Configure Zum Edge Z9-IO-PE-ZE
    - Type `sudo apt install python3-jsonschema`
    - Type `sudo apt-get clean`
      
-5. 
+5. Move install file onto device
+   - From windows PC, open CMD
+   - navigate to directory in windows where file is
+   - Type `pscp -scp autosol.deb devuser@10.106.1.225:/home/devuser/`
+   - Enter password for devuser and file should transfer
+  
+6. Install eACM
+    - In Putty type `sudo apt install /home/devuser/autosol.deb`
+    - 
