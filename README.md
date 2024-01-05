@@ -28,7 +28,7 @@ Configure Zum Edge Z9-IO-PE-ZE
 6. Install eACM
     - In Putty type `sudo -u postgres createdb ASIServerDB`
     - type `sudo -u postgres psql ASIServerDB`
-    - type `ALTER USER postgres WITH PASSWORD 'postgres';
-    - `type `\q`
-    - `/usr/apps/ASIEdgeManager/core/restart`
+    - type `ALTER USER postgres WITH PASSWORD 'postgres';`
+    - type `\q`
+    - type `/usr/apps/ASIEdgeManager/core/restart`
     - 
